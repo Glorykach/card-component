@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://glorykach.github.io/card-component/)
+- Solution URL: [See solution URL here](https://glorykach.github.io/card-component/)
 
 ### Built with
 
